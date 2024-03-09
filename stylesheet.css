@@ -1,0 +1,45 @@
+textarea{
+    width: 80%;
+    height: 32em;
+    margin: 0 10%;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+button{
+    position: relative;
+    left: 80%;
+    width: 10%;
+}
+p{
+    text-align: center;
+    margin: 10px;
+}
+.exportTable{
+    margin: 20px;
+    border: 1px solid #888;
+    width: 70%;
+    margin: 0 auto;
+}
+.exportSection{
+    margin: 80px 0px;
+}
+td{
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    border-right: none;
+    border-left: none;
+    padding: 0px 1em;
+}
+th{
+    border: none;
+}
+.exportTable td{
+    color: #555;
+    text-align: center;
+}
+.exportTable th{
+    font-weight: lighter;
+    font-size: 4em;
+}
